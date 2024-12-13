@@ -1,0 +1,38 @@
+Algoritmo de quando acordar:
+
+1 - Abrir os olhos
+2 - Verificar as horas do relógio.
+3 - Se horas estiver maior ou igual a 06:00
+	1 - Levantar da cama.
+	2 - Dobrar Roupas, de cama.
+	3 - Arrumar a cama.
+    Se horas estiver menor que 05:30
+	1 - Fechar os olhos.
+	2 - Tentar voltar a dormir (kkkkk, ninguém é de ferro né)
+4 - Ir até o guarda-roupa.
+5 - Separar a roupa para usar no dia.
+6 - Pegar a roupa e se dirigir até o banheiro.
+7 - Verificar se porta está fechada.
+	1 - Se estiver fechada.
+	2 - Girar a maçaneta.
+	3 - Abrir a porta.
+	4 - Entrar no banheiro.
+     Se estiver aberta.
+	1 - Entrar no banheiro.
+8 - Retirar a roupa.
+9 - Ligar o chuveiro.
+10 - Verificar a temperatura da água.
+     Se estiver quente:
+	1 - Ajustar temperatura.
+	2 - Tomar banho.
+     Se estiver fria:
+	1 - Ajustar temperatura.
+	2 - Tomar banho
+     Se estiver na temperatura ideal:
+	1 - Tomar banho
+11 - Desligar o chuveiro.
+12 - Pegar a tolha e secar.
+13 - Inserir a vestimenta.
+14 - Ir até o escritório.
+15 - Partiu trabalhar.
+	
